@@ -51,7 +51,7 @@ export default {
 
   data () {
     return {
-      msg: 'Nice Bootstrap candy!',
+      msg: 'Nice Bootstrap!',
       showResponse: false,
       backendResponse: '',
       fullResponse: {
@@ -62,7 +62,7 @@ export default {
       },
       httpStatusCode: '',
       httpStatusText: '',
-      headers: ['Noting here atm. Did you call the Service?'],
+      headers: ['Nothing here. Did you call the Service?'],
       errors: []
     }
   },

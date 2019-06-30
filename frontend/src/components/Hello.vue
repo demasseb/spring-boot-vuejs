@@ -8,11 +8,11 @@
     </ul>
     <h3>This site contains more stuff :)</h3>
     <ul>
-        <li>HowTo call REST-Services:</li>
+        <li>How to call REST-Services:</li>
         <li><router-link to="/callservice">/callservice</router-link></li>
-        <li>HowTo to play around with Bootstrap UI components:</li>
+        <li>How to to play around with Bootstrap UI components:</li>
         <li><router-link to="/bootstrap">/bootstrap</router-link></li>
-        <li>HowTo to interact with the Spring Boot database backend:</li>
+        <li>How To to interact with the Spring Boot database backend:</li>
         <li><router-link to="/user">/user</router-link></li>
         <li>Login to the secured part of the application</li>
         <li><router-link to="/login">/login</router-link></li>

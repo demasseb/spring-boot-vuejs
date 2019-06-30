@@ -1,4 +1,4 @@
-package de.jonashackt.springbootvuejs.configuration;
+package idea.demasseb.springbootvuejs.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

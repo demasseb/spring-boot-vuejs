@@ -1,6 +1,6 @@
 <template>
   <div class="unprotected" v-if="loginError">
-    <h1><b-badge variant="danger">You don't have rights here, mate :D</b-badge></h1>
+    <h1><b-badge variant="danger">You don't have rights to access this part of the app.</b-badge></h1>
     <h5>Seams that you don't have access rights... </h5>
   </div>
   <div class="unprotected" v-else>
